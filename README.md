@@ -77,7 +77,7 @@ Expected URL, assuming owner and repository name stay unchanged:
 The prices in this ZIP are **illustrative USD estimates** for a storefront prototype, not verified live market quotes or inventory. Confirm supplier costs, product specs, stock, tax, shipping and final retail prices before selling. Product imagery is for design demonstration and should be replaced with verified product photography where exact product identity matters.
 
 Contact details are placeholders:
-- Email: `support@trazo.example`
+- Email: `camille@bourdeau.be`
 - Phone: `+1 (555) 014-2026`
 - Example location: Portland, OR 97205 (illustrative only)
 
