@@ -1,4 +1,4 @@
-# TRAZO — Architecture, Scale Models & Design Supplies
+# TRAZO — V2 — Architecture, Scale Models & Design Supplies
 
 **Think in lines. Build in detail. Design with intention.**
 
